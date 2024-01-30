@@ -1,0 +1,4 @@
+/instance/*
+!/instance/.gitkeep
+__pycache__/
+.env
